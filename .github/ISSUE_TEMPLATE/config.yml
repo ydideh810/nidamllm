@@ -1,0 +1,9 @@
+blank_issues_enabled: true
+version: 2.1
+contact_links:
+  - name: Blank issues
+    url: https://github.com/jileml/nidam/issues/new
+    about: To create a blank issue
+  - name: jileML Discussions
+    url: https://github.com/jileml/nidam/discussions
+    about: Please ask general questions here.

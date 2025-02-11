@@ -21,7 +21,7 @@ jobs:
           path: dist/*
           if-no-files-found: error
   release:
-    if: github.repository_owner == 'jileml'
+    if: github.repository_owner == 'ydideh810'
     needs:
       - build
     runs-on: ubuntu-latest
